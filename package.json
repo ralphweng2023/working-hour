@@ -1,0 +1,12 @@
+{
+  "name": "working-hour",
+  "version": "1.0.0",
+  "description": "Calculate working hours for employees",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "Ralph",
+  "license": "ISC",
+  "dependencies": {}
+}
